@@ -1,0 +1,4 @@
+[submodule "dtlcpp"]
+	path = dtlcpp
+	url = https://github.com/Kasugaccho/DungeonTemplateLibrary.git
+	branch = release
