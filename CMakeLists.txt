@@ -1,9 +1,10 @@
 cmake_minimum_required(VERSION 3.10)
 enable_language(CXX)
-project(DTL_JS)
+project(DTL_BIND)
 
 set(main_src
   src/bind.cpp
+  dtlwandbox/DTL.hpp
 )
 
 add_definitions("-std=c++17 -Wall --pedantic-errors") 
