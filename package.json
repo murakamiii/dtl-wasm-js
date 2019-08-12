@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/murakamiii/tdl-wasm-js.git"
+    "url": "git+https://github.com/murakamiii/dtl-wasm-js.git"
   },
   "author": "",
   "license": "BSL-1.0",
   "bugs": {
-    "url": "https://github.com/murakamiii/tdl-wasm-js/issues"
+    "url": "https://github.com/murakamiii/dtl-wasm-js/issues"
   },
-  "homepage": "https://github.com/murakamiii/tdl-wasm-js#readme"
+  "homepage": "https://github.com/murakamiii/dtl-wasm-js#readme"
 }
