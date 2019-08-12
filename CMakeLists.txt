@@ -21,3 +21,5 @@ add_executable(a.out ${main_src})
 # find_package(DTL)
 # include_directories(${DTL_INCLUDE_DIRS})
 # target_link_libraries(a.out ${DTL_LIBRARIES})
+
+# emcc -s EXIT_RUNTIME=1 -s ALLOW_MEMORY_GROWTH=1 --bind -o dtl.js ../src/bind.cpp && node ex.js
