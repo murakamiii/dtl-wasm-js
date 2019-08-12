@@ -1,4 +1,4 @@
-const mod = require('wasm/dtl')
+const mod = require('./wasm/dtl')
 
 const modulePromise = new Promise(resolve =>
   mod.onRuntimeInitialized = _ => {
