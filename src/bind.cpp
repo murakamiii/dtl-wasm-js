@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 // #include <DTL.hpp>
-#include "../dtlwandbox/DTL.hpp"
+#include "dtlwandbox/DTL.hpp"
 #include <emscripten/bind.h>
 
 /**

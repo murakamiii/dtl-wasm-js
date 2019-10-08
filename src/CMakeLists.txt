@@ -3,7 +3,7 @@ enable_language(CXX)
 project(DTL_BIND)
 
 set(main_src
-  src/bind.cpp
+  bind.cpp
   dtlwandbox/DTL.hpp
 )
 
