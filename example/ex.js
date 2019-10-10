@@ -1,4 +1,4 @@
-const mod = require('./dtl')
+const mod = require('../dist/dtl')
 
 const modulePromise = new Promise(resolve =>
   mod.onRuntimeInitialized = _ => {
